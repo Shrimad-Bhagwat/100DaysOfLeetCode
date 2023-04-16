@@ -22,3 +22,9 @@
 121. Best Time to Buy and Sell Stock
 136. Single Number
 141. Linked List Cycle
+1. Search Insert Position
+2. Power of Three
+3. Fizz Buzz
+4. Reverse String
+5. Find Pivot Index
+6. Running Sum of 1d Array
