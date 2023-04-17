@@ -28,3 +28,6 @@
 4. Reverse String
 5. Find Pivot Index
 6. Running Sum of 1d Array
+1. Binary Search
+2. Kids With the Greatest Number of Candies
+3. Is Subsequence
