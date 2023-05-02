@@ -48,4 +48,8 @@
 18. Search a 2D Matrix
 19. Binary Search
 20. Kids With the Greatest Number of Candies
-
+21. Shuffle the Array
+22. Invalid Tweets
+23. Build Array from Permutation
+24. Concatenation of Array
+25. Number of 1 Bits
