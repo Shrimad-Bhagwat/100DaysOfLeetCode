@@ -53,3 +53,4 @@
 23. Build Array from Permutation
 24. Concatenation of Array
 25. Number of 1 Bits
+26. Sort List
