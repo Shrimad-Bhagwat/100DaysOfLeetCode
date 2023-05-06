@@ -54,3 +54,10 @@
 24. Concatenation of Array
 25. Number of 1 Bits
 26. Sort List
+27. N-th Tribonacci Number
+28. Fibonacci Number
+29. Search Insert Position
+30. First Bad Version
+31. Binary Search
+32. Maximum Subarray
+33. Contains Duplicate
