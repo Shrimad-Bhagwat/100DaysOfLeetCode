@@ -61,3 +61,11 @@
 31. Binary Search
 32. Maximum Subarray
 33. Contains Duplicate
+34. Valid Palindrome
+35. Min Cost Climbing Stairs
+36. Climbing Stairs
+37. Merge Sorted Array
+38. Two Sum
+39. Rotate Array
+40. Squares of a Sorted Array
+
