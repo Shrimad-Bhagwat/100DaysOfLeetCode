@@ -68,4 +68,10 @@
 38. Two Sum
 39. Rotate Array
 40. Squares of a Sorted Array
+41. House Robber II
+42. House Robber
+43. Best Time to Buy and Sell Stock
+44. Intersection of Two Arrays II
+45. Two Sum II - Input Array Is Sorted
+46. Move Zeroes
 
