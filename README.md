@@ -74,4 +74,7 @@
 44. Intersection of Two Arrays II
 45. Two Sum II - Input Array Is Sorted
 46. Move Zeroes
-
+47. Pascal's Triangle
+48. Reshape the Matrix
+49. Reverse Words in a String III
+50. Reverse String
