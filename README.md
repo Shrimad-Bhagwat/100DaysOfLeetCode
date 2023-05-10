@@ -78,3 +78,8 @@
 48. Reshape the Matrix
 49. Reverse Words in a String III
 50. Reverse String
+51. Middle of the Linked List
+52. Remove Nth Node From End of List
+53. Valid Sudoku
+54. Search a 2D Matrix
+55. Maximum Subarray
