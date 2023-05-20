@@ -83,3 +83,17 @@
 53. Valid Sudoku
 54. Search a 2D Matrix
 55. Maximum Subarray
+56. Kids With the Greatest Number of Candies
+57. First Unique Character in a String
+58. Ransom Note
+59. Valid Anagram
+60. Linked List Cycle
+61. Merge Two Sorted Lists
+62. Remove Linked List Elements
+63. Implement Queue using Stacks
+64. Reverse Linked List
+65. Generate Parentheses
+66. Climbing Stairs
+67. Permutations
+68. Reverse Vowels of a String
+69. Add Two Numbers
