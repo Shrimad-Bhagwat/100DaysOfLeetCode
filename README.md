@@ -97,3 +97,4 @@
 67. Permutations
 68. Reverse Vowels of a String
 69. Add Two Numbers
+70. Add Binary
