@@ -98,3 +98,9 @@
 68. Reverse Vowels of a String
 69. Add Two Numbers
 70. Add Binary
+71. Greatest Common Divisor of Strings
+72. Strictly Palindromic Number
+73. Remove Duplicates from Sorted Array II
+74. Design Parking System
+75. Design HashSet
+76. Isomorphic Strings
